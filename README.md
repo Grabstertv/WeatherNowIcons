@@ -7,5 +7,7 @@ Weather Now are a set of free and open source, Material Design inspired weather 
 
 # Contributors:
 [Grabster](https://twitter.com/grabsterTV) — Original icon designer and creator of this repository.
+
 [Erik Bucik](https://twitter.com/ErikBucik) — Helped add more conditions, improve icon design and create the Figma component.
+
 [@MarcusBremen](https://twitter.com/MarcusBremen) — Helped add extra features to Kustom Komponent.
